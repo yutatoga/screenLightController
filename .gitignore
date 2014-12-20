@@ -1,0 +1,9 @@
+.DS_Store
+Build/
+Makefile
+Project.xcconfig
+addons.make
+bin/
+config.make
+openFrameworks-Info.plist
+screenLightController.xcodeproj/
